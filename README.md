@@ -35,11 +35,9 @@ We join two CSV files (`employee.csv` and `department.csv`), perform transformat
 
 ---
 ## Project Structure
-``bash
+`bash
 aws-glue-etl-project/
 │── README.md                # Project documentation  
-│── glue_job.py              # Your Glue script  
+│── glue_job.py              # Glue script  
 │── /data/                   # Sample CSVs (emp.csv, dept.csv)  
-│── /images/                 # Architecture diagram/screenshots  
-│── LICENSE                  # (Optional)  
-``
+`
